@@ -1,5 +1,17 @@
-# Ted-Talk-Analysis
+# Ted-Talk-Youtube-Videos
 
+This dataset contains details of each video available on TED's youtube channel :
+- video_link - The youtube link of the video
+- thumbnail_link - The youtube thumbnail link of the video
+- duration - Duration of the video
+- title - Title of the video
+- views - Number of views on that video
+- likes - Number of likes on that video-
+- comments - Number of comments on that video
+- date - Date of the video published on youtube
+- description - Video Description
+
+## Dashboard
 
 ![Dashboard 1](https://github.com/vidushi-25/Tableau-Dashboards/assets/154007399/2a7d3080-7cfc-4356-a64f-781424fb2898)
 
